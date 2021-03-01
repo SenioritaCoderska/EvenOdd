@@ -1,0 +1,12 @@
+C:\Users\iwinkler\source\repos\EvenOdd\bin\Debug\netcoreapp3.1\EvenOdd.exe
+C:\Users\iwinkler\source\repos\EvenOdd\bin\Debug\netcoreapp3.1\EvenOdd.deps.json
+C:\Users\iwinkler\source\repos\EvenOdd\bin\Debug\netcoreapp3.1\EvenOdd.runtimeconfig.json
+C:\Users\iwinkler\source\repos\EvenOdd\bin\Debug\netcoreapp3.1\EvenOdd.runtimeconfig.dev.json
+C:\Users\iwinkler\source\repos\EvenOdd\bin\Debug\netcoreapp3.1\EvenOdd.dll
+C:\Users\iwinkler\source\repos\EvenOdd\bin\Debug\netcoreapp3.1\EvenOdd.pdb
+C:\Users\iwinkler\source\repos\EvenOdd\obj\Debug\netcoreapp3.1\EvenOdd.AssemblyInfoInputs.cache
+C:\Users\iwinkler\source\repos\EvenOdd\obj\Debug\netcoreapp3.1\EvenOdd.AssemblyInfo.cs
+C:\Users\iwinkler\source\repos\EvenOdd\obj\Debug\netcoreapp3.1\EvenOdd.csproj.CoreCompileInputs.cache
+C:\Users\iwinkler\source\repos\EvenOdd\obj\Debug\netcoreapp3.1\EvenOdd.dll
+C:\Users\iwinkler\source\repos\EvenOdd\obj\Debug\netcoreapp3.1\EvenOdd.pdb
+C:\Users\iwinkler\source\repos\EvenOdd\obj\Debug\netcoreapp3.1\EvenOdd.genruntimeconfig.cache
